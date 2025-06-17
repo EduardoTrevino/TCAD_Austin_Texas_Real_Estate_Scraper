@@ -142,6 +142,5 @@ MIT — see `LICENSE` for details.
 **Eduardo Treviño** – [@eatrevin](mailto:eatrevin@cs.cmu.edu)
 Feel free to reach out with questions or improvements!
 
-```
 
 
