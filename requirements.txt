@@ -1,0 +1,7 @@
+# Core deps
+selenium>=4.21
+pandas>=2.1
+lxml>=5.0          # used by pandas.read_html
+
+# Optional helper (auto-downloads the right ChromeDriver)
+webdriver-manager>=4.0
